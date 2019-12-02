@@ -1,0 +1,30 @@
+.container{
+    background: #40c9c9;
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto; /*esq/dir segue align do h1 */
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-top: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: #111;
+}
+
+input[type=button]{
+    background: #fff;
+    border: none;
+}
+
+input[type=number]{
+    width: 200px;
+}
